@@ -1,0 +1,65 @@
+﻿@model IEnumerable<ProyectoMascotas.DAL.Models.Administracion>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreAdm)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Contrasena)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rol)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImagenUsuario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UltimaConexion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EstadoUsuario)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreAdm)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Contrasena)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rol)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ImagenUsuario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UltimaConexion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EstadoUsuario)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdAdm">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdAdm">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdAdm">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

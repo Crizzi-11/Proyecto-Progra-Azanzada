@@ -1,0 +1,12 @@
+C:\Users\Cristofer\OneDrive\Escritorio\Universidad\I Cuatri\Programación Avanzada\Proyecto\ProyectoMascotas.DAL\bin\Debug\net8.0\ProyectoMascotas.DAL.deps.json
+C:\Users\Cristofer\OneDrive\Escritorio\Universidad\I Cuatri\Programación Avanzada\Proyecto\ProyectoMascotas.DAL\bin\Debug\net8.0\ProyectoMascotas.DAL.dll
+C:\Users\Cristofer\OneDrive\Escritorio\Universidad\I Cuatri\Programación Avanzada\Proyecto\ProyectoMascotas.DAL\bin\Debug\net8.0\ProyectoMascotas.DAL.pdb
+C:\Users\Cristofer\OneDrive\Escritorio\Universidad\I Cuatri\Programación Avanzada\Proyecto\ProyectoMascotas.DAL\obj\Debug\net8.0\ProyectoMascotas.DAL.csproj.AssemblyReference.cache
+C:\Users\Cristofer\OneDrive\Escritorio\Universidad\I Cuatri\Programación Avanzada\Proyecto\ProyectoMascotas.DAL\obj\Debug\net8.0\ProyectoMascotas.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristofer\OneDrive\Escritorio\Universidad\I Cuatri\Programación Avanzada\Proyecto\ProyectoMascotas.DAL\obj\Debug\net8.0\ProyectoMascotas.DAL.AssemblyInfoInputs.cache
+C:\Users\Cristofer\OneDrive\Escritorio\Universidad\I Cuatri\Programación Avanzada\Proyecto\ProyectoMascotas.DAL\obj\Debug\net8.0\ProyectoMascotas.DAL.AssemblyInfo.cs
+C:\Users\Cristofer\OneDrive\Escritorio\Universidad\I Cuatri\Programación Avanzada\Proyecto\ProyectoMascotas.DAL\obj\Debug\net8.0\ProyectoMascotas.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\OneDrive\Escritorio\Universidad\I Cuatri\Programación Avanzada\Proyecto\ProyectoMascotas.DAL\obj\Debug\net8.0\ProyectoMascotas.DAL.dll
+C:\Users\Cristofer\OneDrive\Escritorio\Universidad\I Cuatri\Programación Avanzada\Proyecto\ProyectoMascotas.DAL\obj\Debug\net8.0\refint\ProyectoMascotas.DAL.dll
+C:\Users\Cristofer\OneDrive\Escritorio\Universidad\I Cuatri\Programación Avanzada\Proyecto\ProyectoMascotas.DAL\obj\Debug\net8.0\ProyectoMascotas.DAL.pdb
+C:\Users\Cristofer\OneDrive\Escritorio\Universidad\I Cuatri\Programación Avanzada\Proyecto\ProyectoMascotas.DAL\obj\Debug\net8.0\ref\ProyectoMascotas.DAL.dll
