@@ -1,0 +1,255 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Proyecto_Programacion_Azanzada
+build_property.RootNamespace = Proyecto_Programacion_Azanzada
+build_property.ProjectDir = C:\Users\Cristofer\OneDrive\Escritorio\Universidad\I Cuatri\Programación Avanzada\Proyecto\Proyecto Programacion Azanzada\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Cristofer\OneDrive\Escritorio\Universidad\I Cuatri\Programación Avanzada\Proyecto\Proyecto Programacion Azanzada
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Administraciones/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWNpb25lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Administraciones/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWNpb25lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Administraciones/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWNpb25lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Administraciones/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWNpb25lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Administraciones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWNpb25lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Citas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Citas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Citas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Citas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Citas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/DesparasitacionesVacunas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzcGFyYXNpdGFjaW9uZXNWYWN1bmFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/DesparasitacionesVacunas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzcGFyYXNpdGFjaW9uZXNWYWN1bmFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/DesparasitacionesVacunas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzcGFyYXNpdGFjaW9uZXNWYWN1bmFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/DesparasitacionesVacunas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzcGFyYXNpdGFjaW9uZXNWYWN1bmFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/DesparasitacionesVacunas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzcGFyYXNpdGFjaW9uZXNWYWN1bmFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Duenos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVlbm9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Duenos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVlbm9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Duenos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVlbm9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Duenos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVlbm9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Duenos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVlbm9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Mascotas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzY290YXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Mascotas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzY290YXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Mascotas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzY290YXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Mascotas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzY290YXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Mascotas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzY290YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Padecimientos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFkZWNpbWllbnRvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Padecimientos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFkZWNpbWllbnRvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Padecimientos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFkZWNpbWllbnRvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Padecimientos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFkZWNpbWllbnRvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Padecimientos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFkZWNpbWllbnRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Razas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6YXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Razas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6YXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Razas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6YXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Razas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6YXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Razas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF6YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/TiposMascotas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NNYXNjb3Rhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/TiposMascotas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NNYXNjb3Rhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/TiposMascotas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NNYXNjb3Rhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/TiposMascotas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NNYXNjb3Rhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/TiposMascotas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NNYXNjb3Rhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/VeterinariosP/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaW9zUFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/VeterinariosP/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaW9zUFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/VeterinariosP/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaW9zUFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/VeterinariosP/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaW9zUFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/VeterinariosP/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaW9zUFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/VeterinariosS/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaW9zU1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/VeterinariosS/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaW9zU1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/VeterinariosS/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaW9zU1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/VeterinariosS/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaW9zU1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/VeterinariosS/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaW9zU1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cristofer/OneDrive/Escritorio/Universidad/I Cuatri/Programación Avanzada/Proyecto/Proyecto Programacion Azanzada/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8gcqzu9pjn
